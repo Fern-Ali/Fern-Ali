@@ -30,3 +30,7 @@
 - 🎮 **Games** > League of Legends, Elden Ring-->
 |  🎀  |🎀| 🎀 🎀 🎀 About Ali 🎀 🎀 🎀 |🎀| 🎀  |
 |||||
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
