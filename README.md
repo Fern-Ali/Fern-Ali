@@ -28,9 +28,3 @@
 - 🧩 **Hobbies** > Cooking, designing, playing video games-- and always learning!
 - 🎵 **Music** > [[Spotify](https://open.spotify.com/user/woodenchimp?si=cc55d2e714184924)]
 - 🎮 **Games** > League of Legends, Elden Ring-->
-|  🎀  |🎀| 🎀 🎀 🎀 About Ali 🎀 🎀 🎀 |🎀| 🎀  |
-|||||
-
-| foo | bar ||
-| --- | --- | --- |
-| baz | bim ||
