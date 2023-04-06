@@ -6,7 +6,7 @@
 <!-- 🎆About Me🎆
 ----------------->
 
-|    || .................🎀 🎀 🎀 About Ali 🎀 🎀 🎀................  ||   |
+|    || 🎀 🎀 🎀 About Ali 🎀 🎀 🎀 ||   |
 |          :----: ||:----|
 |✔|🤑 | **Job**  => Licensed Insurance Agent, aspiring dev!
 |✔|🧐| **Studies** => BA in French, English minor. Current **UMASS Global Software Engineering program** student!|
