@@ -8,12 +8,12 @@
 
 |    |🎀|   🎀 About Ali 🎀   |🎀|   |
 | --- |   :----: | --- |:----| --- |
-|✔|🤑 | **Job**  => Licensed Insurance Agent, aspiring dev!|||
-|✔|🧐| **Studies** => BA in French, English minor. Current **UMASS Global Software Engineering program** student!|||
+|✔|🤑 | **Job**  => Software Engineer|||
+|✔|🧐| **Studies** => University of Massachusetts GLOBAL Software Engineering Bootcamp [+BA French]|||
 |✔|🤓|**Age** => 27|||
 |✔|👻|**Human Languages** => English, Spanish, French. Complete fluency.|||
 |✔|👾|**Programming Competencies** => Vanilla JS jQuery CSS bootstrap HTML Python Flask (jinja2) SQL (psql) Markdown|||
-|✔|🥅|**Goals** => Become a full-time software engineer! |||
+|✔|🥅|**Goals** => Innovate |||
 |✔|🧩|**Hobbies** => Cooking, designing, playing video games-- and always learning!|||
 |✔|🎵|**Music** => [[Spotify](https://open.spotify.com/user/woodenchimp?si=cc55d2e714184924)]|||
 |✔|🎮|**Games** => League of Legends, Elden Ring, Legend of Zelda(s)   |||
