@@ -9,7 +9,7 @@
 |    |🎀|   🎀 About Ali 🎀   |🎀|   |
 | --- |   :----: | --- |:----| --- |
 |✔|🤑 | **Job**  => Software Engineer|||
-|✔|🧐| **Studies** => University of Massachusetts GLOBAL Software Engineering Bootcamp [+BA French]|||
+|✔|🧐| **Studies** => MS Artificial Intelligence => University of Massachusetts GLOBAL Software Engineering Bootcamp [+BA French]|||
 |✔|🤓|**Age** => 27|||
 |✔|👻|**Human Languages** => English, Spanish, French. Complete fluency.|||
 |✔|👾|**Programming Competencies** => Vanilla JS jQuery CSS bootstrap HTML Python Flask (jinja2) SQL (psql) Markdown|||
