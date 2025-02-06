@@ -12,7 +12,7 @@
 |✔|🧐| **Studies** => MS Artificial Intelligence => University of Massachusetts GLOBAL Software Engineering Bootcamp [+BA French]|||
 |✔|🤓|**Age** => 27|||
 |✔|👻|**Human Languages** => English, Spanish, French. Complete fluency.|||
-|✔|👾|**Programming Competencies** => Vanilla JS jQuery CSS bootstrap HTML Python Flask (jinja2) SQL (psql) Markdown|||
+|✔|👾|**Programming Competencies** => A lot.  Cant keep up with this section anymore! React, Node, Nextjs, Django, inferencing, fine-tuning, RL, Vanilla JS jQuery CSS bootstrap HTML Python Flask (jinja2) SQL (psql) Markdown|||
 |✔|🥅|**Goals** => Innovate |||
 |✔|🧩|**Hobbies** => Cooking, designing, playing video games-- and always learning!|||
 |✔|🎵|**Music** => [[Spotify](https://open.spotify.com/user/woodenchimp?si=cc55d2e714184924)]|||
